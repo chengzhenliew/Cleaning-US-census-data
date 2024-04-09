@@ -1,3 +1,4 @@
+Context
 Cleaning US Census Data
 You just got hired as a Data Analyst at the Census Bureau, which collects census data and creates interesting visualizations and insights from it.
 
